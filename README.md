@@ -3,6 +3,8 @@
 A classic Snake Game built using **React** for the UI, with **JavaScript** logic and **CSS** for styling. The game features smooth controls, score tracking, and increasing difficulty as the snake grows. It's a fun way to demonstrate React's state management and component-based structure.
 
 ---
+## Live demo
+https://ankitsnakegame.netlify.app/
 
 ## 🚀 Features
 
